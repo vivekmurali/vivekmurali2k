@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 ---
 
 ## Codewars profile Badge
-[![Codewars profile stats](https://www.codewars.com/users/vivekmurali2k/badges/large)] (https://vivekmurali.tech)
+[![Codewars profile stats](https://www.codewars.com/users/vivekmurali2k/badges/large)](https://vivekmurali.tech)
