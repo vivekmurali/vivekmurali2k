@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 ---
 
-[![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=vivekmurali2k&theme=tokyonight&show_icons=true)]
+![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=vivekmurali2k&theme=tokyonight&show_icons=true)
