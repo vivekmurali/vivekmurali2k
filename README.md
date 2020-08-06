@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [State of Pro dota](https://blog.vivekmurali.tech/state-of-pro-dota/)
 - [CSS Preprocessors](https://blog.vivekmurali.tech/css-preprocessors/)
 - [Bitcoin Live Price using FETCH API](https://blog.vivekmurali.tech/fetch-api/)
