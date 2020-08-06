@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 # Blog posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [State of Pro dota](https://blog.vivekmurali.tech/state-of-pro-dota/)
 - [CSS Preprocessors](https://blog.vivekmurali.tech/css-preprocessors/)
 - [Bitcoin Live Price using FETCH API](https://blog.vivekmurali.tech/fetch-api/)
@@ -24,4 +27,4 @@ Here are some ideas to get you started:
 
 ---
 
-[![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=vivekmurali2k)](https://github.com/anuraghazra/github-readme-stats)
+[![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=vivekmurali2k&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
