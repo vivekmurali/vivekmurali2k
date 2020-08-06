@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+[![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=vivekmurali2k)](https://github.com/anuraghazra/github-readme-stats)
