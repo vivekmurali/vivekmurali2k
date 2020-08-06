@@ -32,3 +32,7 @@ Here are some ideas to get you started:
 
 ## Codewars profile Badge
 [![Codewars profile stats](https://www.codewars.com/users/vivekmurali2k/badges/large)](https://vivekmurali.tech)
+
+---
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
